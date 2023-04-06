@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: `Frontend Mentor | Designo Agency Website Challenge`,
-    author: `crisKLP`,
+    title: `Qteam Agency Website`,
+    author: `QuangHD`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,

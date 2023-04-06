@@ -141,22 +141,18 @@ const Footer = () => {
               <Link to="/about">Our Company</Link>
             </NavItem>
             <NavItem>
-              <Link to="/locations">Locations</Link>
-            </NavItem>
-            <NavItem>
               <Link to="/contact">Contact</Link>
             </NavItem>
           </NavList>
         </Navigation>
         <Address>
-          <Paragraph bold>Designo Central Office</Paragraph>
-          <Paragraph>3886 Wellington Street</Paragraph>
-          <Paragraph>Toronto, Ontario M9C 3J5</Paragraph>
+          <Paragraph bold>Qteam Office</Paragraph>
+          <Paragraph>52 Nguyen Van Linh</Paragraph>
+          <Paragraph>Da Nang, Vietnam</Paragraph>
         </Address>
         <Address>
           <Paragraph bold>Contact Us (Central Office)</Paragraph>
-          <Paragraph>P : +1 253-863-8967</Paragraph>
-          <Paragraph>M : contact@designo.co</Paragraph>
+          <Paragraph>M : support@qteam.cloud</Paragraph>
         </Address>
         <StyledSocialIcons />
       </StyledContainer>

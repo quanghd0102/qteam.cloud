@@ -1,9 +1,9 @@
 {
-  "name": "gatsby-starter-default",
+  "name": "qteam-cloud",
   "private": true,
-  "description": "A simple starter to get up and developing quickly with Gatsby",
+  "description": "Qteam.cloud website",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "QuangHD <quang.hd0102@gmail.com>",
   "dependencies": {
     "babel-plugin-styled-components": "^1.12.0",
     "formik": "^2.2.6",
