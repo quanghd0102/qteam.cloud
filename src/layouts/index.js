@@ -35,7 +35,14 @@ const MainLayout = ({ children }) => {
               href: data.file.publicURL,
             },
           ]}
-        />
+        >
+          <meta name="description" content="Fullstack Team as a Service"></meta>
+          <meta property="og:url" content="https://qteam.cloud" />
+          <meta property="og:type" content="website"/>
+          <meta property="og:title" content="Qteam Website"/>
+          <meta property="og:description" content="Fullstack Team as a Service"/>
+          <meta property="og:image" content="https://qteam.cloud/og-url.jpg"></meta>
+        </Helmet>
         <GlobalStyle />
         <Header />
         <main>{children}</main>

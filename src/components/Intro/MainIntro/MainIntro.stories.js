@@ -14,7 +14,7 @@ export default {
       height: 913,
     },
     heading: 'Award-winning custom designs and digital branding solutions',
-    text: `With over 10 years in the industry, we are experienced in creating
+    text: `With over 5 years in the industry, we are experienced in creating
           fully responsive websites, app design, and engaging brand experiences.
           Find out more about our services.`,
     linkLabel: 'Learn More',

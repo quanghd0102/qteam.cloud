@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Qteam Agency Website`,
+    title: `Qteam Website`,
     author: `QuangHD`,
   },
   plugins: [
